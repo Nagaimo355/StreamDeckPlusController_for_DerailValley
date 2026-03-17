@@ -6,7 +6,7 @@ Elgato製 Stream Deck Plusを用いたDerail Valley用コントローラー。SL
 - Stream Deck ソフトウェア
 - AutoHotkey（v2.0）
 
-# How to Use
+# 導入方法
 １．「StreamDeck_SupportFile.zip」をダウンロード＆解凍し、フォルダ「StreamDeck_SupportFile」をデスクトップに配置します。
 
 ２．フォルダ「Derail Valley」の「260317_StreamDeckPlus_DerailValley.streamDeckProfilesBackup」をダブルクリックし、バックアップファイルを適用します。
@@ -18,5 +18,5 @@ Elgato製 Stream Deck Plusを用いたDerail Valley用コントローラー。SL
 
 ４．ゲーム「Derail Valley」のキーバインド設定をAHKスクリプトと同じにします。もしくは、ご自身のキーバインド設定に合わせてAHKスクリプトを変更します。参考までに私のキーバインド設定をZIPファイル「ControlBind_ScreenShot.zip」にまとめています。
 
-※GitHub初心者です。至らない点もありますが、ご容赦ください。
-
+# 最後に
+GitHub初心者です。至らない点もありますが、ご容赦ください。
